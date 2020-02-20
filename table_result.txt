@@ -1,0 +1,7 @@
+No. | Error type                     | Total error | %      | Sample source code             |
+---------------------------------------------------------------------------------------------|
+1   | Division by zero               | 807         | 8.07%  | DivisionByZero.c               |
+2   | Null pointer check             | 782         | 7.82%  | NullPointerCheck.c             |
+3   | Read of uninitialized variable | 1291        | 12.91% | ReadOfUninitializedVariable.c  |
+4   | Out of bound access            | 1288        | 12.88% | OutOfBoundsAccess.c            |
+5   | Data race                      | 1379        | 13.79% | DataRace.c                     |
